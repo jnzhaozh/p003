@@ -1,6 +1,6 @@
 # p003
 
-This repository contains simulation code, results, and figures for the manuscript "Information Diet Trumps Network Structure".
+This repository contains simulation code, results, and figures for the manuscript "Information-Diet Structure and Effective Diffusion Networks".
 
 ## Contents
 
